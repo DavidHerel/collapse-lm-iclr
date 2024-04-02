@@ -1,7 +1,7 @@
 
 # nanoGPT code-base for self-trained language models
 
-
+Link to the paper: [Collapse of Self-trained Langauge Models](https://openreview.net/forum?id=DeuBfEWyR4)
 ## install
 
 ```
